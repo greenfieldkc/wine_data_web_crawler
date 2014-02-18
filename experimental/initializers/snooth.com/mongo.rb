@@ -1,0 +1,1 @@
+MongoMapper::Database = 'snooth.com'
